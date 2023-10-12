@@ -8,3 +8,11 @@
 body{
     background: #006f3f;
 }
+
+.container{
+    width: 400px;
+    padding: 25px 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
